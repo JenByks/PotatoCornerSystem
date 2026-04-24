@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PotatoCorner
+namespace PotCor
 {
 
 
